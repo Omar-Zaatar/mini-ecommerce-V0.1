@@ -1,0 +1,46 @@
+.add-to-basket-btn {
+    width: 100%;
+    padding: 8px;
+    background-color: dodgerblue;
+    color: #111;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+    .add-to-basket-btn:hover {
+        background-color: lightskyblue;
+    }
+
+.add-to-wishlist-btn {
+    width: 100%;
+    padding: 11px;
+    background-color: red;
+    margin-top: 5px;
+    color: #111;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+    .add-to-wishlist-btn:hover {
+        background-color: darkorange;
+    }
+
+
+.nav-link {
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+}
+
+    .nav-link:hover {
+        color: #cce5ff;
+        transition: color 0.2s;
+    }
